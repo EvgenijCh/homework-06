@@ -45,7 +45,6 @@ li {
   border: 0;
   padding: 0;
   clip: rect(0 0 0 0);
-  clip-path: inset(50%);
   margin: -1px;
 }
 
@@ -126,7 +125,7 @@ body {
   margin: 0 auto;
 }
 
-.work {
+.Subtitle {
   display: block;
   font-size: 24px;
   font-family: "Kaushan Script";
@@ -231,7 +230,7 @@ body {
   margin: 0 auto;
 }
 
-.we {
+.Subtitle {
   display: block;
   font-size: 24px;
   font-family: "Kaushan Script";
