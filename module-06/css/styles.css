@@ -358,7 +358,7 @@ body {
   background-color: #95e1d3;
 }
 
-.social-list__item-link:not (:last-child) {
+.social-list__item-link:not(:last-child) {
   margin-right: 1px;
 }
 
